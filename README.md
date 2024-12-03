@@ -1,5 +1,5 @@
 
-# A simple screen rule with only tkinter moudle.
+# A simple screen ruler with only tkinter moudle.
 
 ### Moving and resizing a window to measure the screen.
 
