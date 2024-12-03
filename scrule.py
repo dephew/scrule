@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 #####################################################
-#A simple screen rule with only tkinter moudle.     #
+#A simple screen ruler with only tkinter moudle.     #
 #Moving and resizing a window to measure the screen.#
 #Run this script (scrule.py) directly under Python. #
 #By dhy(denghy@shutcm.edu.cn) 2024.11.29            #
