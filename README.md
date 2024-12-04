@@ -4,9 +4,9 @@
 ### Moving and resizing a window to measure the screen.
 
 ### How to Run
-- Run `run_sc_quite.vbs` without command promt window;
-- Run `sc.bat` with command prompt window;
-- Run python script (`scrule.py`) directly under Python.
+- Run `run_sc_quite.vbs` without command prompt window
+- Run `sc.bat` with command prompt window
+- Run python script (`scrule.py`) directly under Python
 
 ### Moving Window
 - Title draging
